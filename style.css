@@ -6,7 +6,7 @@ body {
   font-weight: 500;
 }
 .svg-box {
-  width: fit-content;
+  width: 80%;
   height: auto;
 }
 .primary-colour {
