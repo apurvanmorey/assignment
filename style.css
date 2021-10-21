@@ -53,3 +53,10 @@ h3 {
 .line-2 {
   transform: scaleX(-1);
 }
+
+@media only screen and (max-width: 600px) {
+  .img-section {
+    max-height: 200px;
+    width: 200px;
+  }
+}
